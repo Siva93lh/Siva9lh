@@ -13,6 +13,11 @@
 
 <p align="left">✨ I’m currently working on – Python, Data Analysis and Cloud Projects  <br>📚 I’m currently learning – Advanced Python, Power BI, Excel <br>🎯 I’m looking to collaborate on – Python, Data Science & Web Applications<br>🎲 I’m looking for help with – Advanced Data Modeling, Analytics Architecture and Scalable BI Solutions.</p>
 
+Reach Me:  <a href="https://www.linkedin.com/in/shivaprasad24" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+
 ###
 
 <h2 align="left">I code with</h2>
