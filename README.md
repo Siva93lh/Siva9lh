@@ -1,9 +1,7 @@
 
 ###
-<p align="left"><h1 style="font-size:30px;">Hello, I'm Shiva Prasad 👋</h1><br><br>✨ I’m currently working on – Python, Data Analysis and Cloud Projects<br>📚 I’m currently learning – Advanced Python, Power BI, Excel<br>🎯 I’m looking to collaborate on – Python, Data Science & Web Applications<br>🎲 I’m looking for help with – Advanced Data Modeling, Analytics Architecture and Scalable BI Solutions.<br>📫 How to reach me: ... ssivaeng1224@gmail.com<br>My Resume: -<a href="Shiva_Prasad_Resume.pdf" target="_blank"><br>  <img src="https://img.icons8.com/color/48/000000/pdf.png"/><br></a><br><br>
+<p align="left"><h1 style="font-size:30px;">Hello, I'm Shiva Prasad 👋</h1><br><br>✨ I’m currently working on – Python, Data Analysis and Cloud Projects<br>📚 I’m currently learning – Advanced Python, Power BI, Excel<br>🎯 I’m looking to collaborate on – Python, Data Science & Web Applications<br>🎲 I’m looking for help with – Advanced Data Modeling, Analytics Architecture and Scalable BI Solutions.<br>📫 How to reach me: ... ssivaeng1224@gmail.com<br>My Resume: -<a href="Shiva_Prasad_Resume.pdf" 
 ###
-
-
 
   ###
   
