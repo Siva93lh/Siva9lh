@@ -1,7 +1,7 @@
 
 ###
 <p align="left"><h1 style="font-size:30px;">Hello, I'm Shiva Prasad 👋</h1><br><br>✨ I’m currently working on – Python, Data Analysis and Cloud Projects<br>📚 I’m currently learning – Advanced Python, Power BI, Excel<br>🎯 I’m looking to collaborate on – Python, Data Science & Web Applications<br>🎲 I’m looking for help with – Advanced Data Modeling, Analytics Architecture and Scalable BI Solutions.<br>📫 How to reach me: ... ssivaeng1224@gmail.com<br>My Resume: -<a href="Shiva_Prasad_Resume.pdf" target="_blank"><br>  <img src="https://img.icons8.com/color/48/000000/pdf.png"/><br></a><br><br>
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-  
+  ###
   
   🔭 Tech Stack:<br>![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>![PowerBI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)<br>![SSMS](https://img.shields.io/badge/SSMS-%230078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)<br>![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>![Google%20Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)<br>![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)<br>![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)<br>![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)
 
