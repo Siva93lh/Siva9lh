@@ -2,7 +2,6 @@
 
 ###
 
-<h1 align="left">Hi, I'm Shiva Prasad 👋</h1>
 
 ###
 
