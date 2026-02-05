@@ -1,15 +1,3 @@
-<h1 align="left">Hi, I'm Shiva Prasad 👋</h1>
-
-###
-
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 
