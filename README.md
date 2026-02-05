@@ -3,23 +3,7 @@
 <p align="left"><h1 style="font-size:30px;">Hello, I'm Shiva Prasad 👋</h1><br><br>✨ I’m currently working on – Python, Data Analysis and Cloud Projects<br>📚 I’m currently learning – Advanced Python, Power BI, Excel<br>🎯 I’m looking to collaborate on – Python, Data Science & Web Applications<br>🎲 I’m looking for help with – Advanced Data Modeling, Analytics Architecture and Scalable BI Solutions.<br>📫 How to reach me: ... ssivaeng1224@gmail.com<br>My Resume: -<a href="Shiva_Prasad_Resume.pdf" target="_blank"><br>  <img src="https://img.icons8.com/color/48/000000/pdf.png"/><br></a><br><br>
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+
 
   ###
   
